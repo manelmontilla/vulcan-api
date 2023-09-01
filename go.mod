@@ -5,12 +5,12 @@ go 1.21.0
 require (
 	github.com/adevinta/errors v1.0.0
 	github.com/adevinta/vulcan-core-cli v1.0.2
-	github.com/adevinta/vulcan-groupie v1.0.0
+	github.com/adevinta/vulcan-groupie v1.0.1
 	github.com/adevinta/vulcan-metrics-client v1.0.1
 	github.com/adevinta/vulcan-report v1.0.0
-	github.com/adevinta/vulcan-scan-engine v1.1.8
-	github.com/adevinta/vulcan-types v1.0.0
-	github.com/adevinta/vulnerability-db-api v1.1.5
+	github.com/adevinta/vulcan-scan-engine v1.1.12
+	github.com/adevinta/vulcan-types v1.1.1
+	github.com/adevinta/vulnerability-db-api v1.1.8
 	github.com/aws/aws-sdk-go v1.45.1
 	github.com/confluentinc/confluent-kafka-go v1.9.2
 	github.com/go-kit/kit v0.13.0
@@ -73,7 +73,7 @@ require (
 	github.com/subosito/gotenv v1.4.2 // indirect
 	github.com/zach-klippenstein/goregen v0.0.0-20160303162051-795b5e3961ea // indirect
 	golang.org/x/mod v0.8.0 // indirect
-	golang.org/x/net v0.10.0 // indirect
+	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
 	golang.org/x/tools v0.6.0 // indirect
