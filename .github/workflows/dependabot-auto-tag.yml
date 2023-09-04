@@ -1,7 +1,8 @@
 name: Auto tag
 on:
-  schedule:             # Group PRs in the same tag
-    - cron:  '30 5,17 * * 1,2'  # Try some times to allow deps to propagate.
+  push:
+    branches:
+      - master
   workflow_dispatch:    # Manual in case needed
 jobs:
   dependabot-auto-tag:
