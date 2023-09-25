@@ -8,9 +8,9 @@ require (
 	github.com/adevinta/vulcan-groupie v1.0.1
 	github.com/adevinta/vulcan-metrics-client v1.0.1
 	github.com/adevinta/vulcan-report v1.0.0
-	github.com/adevinta/vulcan-scan-engine v1.1.12
-	github.com/adevinta/vulcan-types v1.1.3
-	github.com/adevinta/vulnerability-db-api v1.1.8
+	github.com/adevinta/vulcan-scan-engine v1.1.14
+	github.com/adevinta/vulcan-types v1.1.4
+	github.com/adevinta/vulnerability-db-api v1.1.11
 	github.com/aws/aws-sdk-go v1.45.15
 	github.com/confluentinc/confluent-kafka-go v1.9.2
 	github.com/go-kit/kit v0.13.0
