@@ -62,8 +62,8 @@ github.com/adevinta/vulcan-report v1.0.0 h1:44aICPZ+4svucgCSA5KmjlT3ZGzrvZXiSnkb
 github.com/adevinta/vulcan-report v1.0.0/go.mod h1:k34KaeoXc3H77WNMwI9F4F1G28hBjB95PeMUp9oHbEE=
 github.com/adevinta/vulcan-scan-engine v1.1.14 h1:pACXuRoSJuQfACi+qyX5NUZkONLN+GRE3qcytpGFyvw=
 github.com/adevinta/vulcan-scan-engine v1.1.14/go.mod h1:xSnwWm/qQeZ07A35H15wPVoeiG+XKiXtMZH/lP2ib6A=
-github.com/adevinta/vulcan-types v1.2.0 h1:ioB47or6sy73Qt7yct47JpG6ww7NF3tIaNuP3KelJpE=
-github.com/adevinta/vulcan-types v1.2.0/go.mod h1:8QLgjb/tOBIQtu95nJVYjL0cwUfaocfvIbaS+xTt+Cc=
+github.com/adevinta/vulcan-types v1.2.1 h1:f+BEAiA75kX3unp4ylcFzR04lHOE9rl+CebSA8Z7IXc=
+github.com/adevinta/vulcan-types v1.2.1/go.mod h1:rsdoVKNjHp+hvQ+HcOf6pzWJ38P+G7L16xHOJe808I4=
 github.com/adevinta/vulnerability-db-api v1.1.11 h1:VD5p+zk6dUPhP+1a/Jx6wVoLO19IpCppfHsTK8uxKpE=
 github.com/adevinta/vulnerability-db-api v1.1.11/go.mod h1:ICPY2oJ5+LRCtDUAvfvcJuHWCBhXaJ8UZ4o0Z2EI6Yo=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
@@ -113,8 +113,10 @@ github.com/dimfeld/httppath v0.0.0-20170720192232-ee938bf73598 h1:MGKhKyiYrvMDZs
 github.com/dimfeld/httppath v0.0.0-20170720192232-ee938bf73598/go.mod h1:0FpDmbrt36utu8jEmeU05dPC9AB5tsLYVVi+ZHfyuwI=
 github.com/dimfeld/httptreemux v5.0.1+incompatible h1:Qj3gVcDNoOthBAqftuD596rm4wg/adLLz5xh5CmpiCA=
 github.com/dimfeld/httptreemux v5.0.1+incompatible/go.mod h1:rbUlSV+CCpv/SuqUTP/8Bk2O3LyUV436/yaRGkhP6Z0=
-github.com/docker/distribution v2.8.2+incompatible h1:T3de5rq0dB1j30rp0sA2rER+m322EBzniBPB6ZIzuh8=
-github.com/docker/distribution v2.8.2+incompatible/go.mod h1:J2gT2udsDAN96Uj4KfcMRqY0/ypR+oyYUYmja8H+y+w=
+github.com/distribution/reference v0.5.0 h1:/FUIFXtfc/x2gpa5/VGfiGLuOIdYa1t65IKK2OFGvA0=
+github.com/distribution/reference v0.5.0/go.mod h1:BbU0aIcezP1/5jX/8MP0YiH4SdvB5Y4f/wlDRiLyi3E=
+github.com/docker/distribution v2.8.3+incompatible h1:AtKxIZ36LoNK51+Z6RpzLpddBirtxJnzDrHLEKxTAYk=
+github.com/docker/distribution v2.8.3+incompatible/go.mod h1:J2gT2udsDAN96Uj4KfcMRqY0/ypR+oyYUYmja8H+y+w=
 github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/go-control-plane v0.9.4/go.mod h1:6rpuAdCZL397s3pYoYcLgu1mIlRU8Am5FuJP05cCM98=
