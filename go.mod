@@ -11,13 +11,13 @@ require (
 	github.com/adevinta/vulcan-scan-engine v1.1.16
 	github.com/adevinta/vulcan-types v1.2.3
 	github.com/adevinta/vulnerability-db-api v1.1.11
-	github.com/aws/aws-sdk-go v1.46.6
+	github.com/aws/aws-sdk-go v1.47.3
 	github.com/confluentinc/confluent-kafka-go v1.9.2
 	github.com/go-kit/kit v0.13.0
 	github.com/goadesign/goa v1.4.3
 	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/google/go-cmp v0.6.0
-	github.com/gorilla/mux v1.8.0
+	github.com/gorilla/mux v1.8.1
 	github.com/jinzhu/gorm v1.9.16
 	github.com/lestrrat-go/backoff v1.0.1
 	github.com/lib/pq v1.10.9
@@ -25,7 +25,7 @@ require (
 	github.com/russellhaering/gosaml2 v0.9.1
 	github.com/russellhaering/goxmldsig v1.4.0
 	github.com/satori/go.uuid v1.2.1-0.20181028125025-b2ce2384e17b
-	github.com/spf13/cobra v1.7.0
+	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.17.0
 	gopkg.in/go-playground/validator.v9 v9.31.0
 	gopkg.in/testfixtures.v2 v2.6.0
