@@ -1,6 +1,7 @@
 module github.com/adevinta/vulcan-api
 
 go 1.21.0
+toolchain go1.21.3
 
 require (
 	github.com/adevinta/errors v1.0.0
@@ -8,9 +9,9 @@ require (
 	github.com/adevinta/vulcan-groupie v1.0.1
 	github.com/adevinta/vulcan-metrics-client v1.0.1
 	github.com/adevinta/vulcan-report v1.0.0
-	github.com/adevinta/vulcan-scan-engine v1.1.16
-	github.com/adevinta/vulcan-types v1.2.3
-	github.com/adevinta/vulnerability-db-api v1.1.11
+	github.com/adevinta/vulcan-scan-engine v1.1.18
+	github.com/adevinta/vulcan-types v1.2.5
+	github.com/adevinta/vulnerability-db-api v1.1.13
 	github.com/aws/aws-sdk-go v1.47.9
 	github.com/confluentinc/confluent-kafka-go v1.9.2
 	github.com/go-kit/kit v0.13.0
@@ -80,7 +81,7 @@ require (
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/sys v0.14.0 // indirect
 	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.13.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230920204549-e6e6cdab5c13 // indirect
