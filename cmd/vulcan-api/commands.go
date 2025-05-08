@@ -73,6 +73,8 @@ func execute() {
 }
 
 func init() {
+	// Code to remove only for testing.
+
 	cobra.OnInitialize(initConfig)
 
 	rootCmd.Flags().StringVarP(&cfgFile, "config", "c", "", "config file (default is $HOME/.vulcan-api.toml)")
